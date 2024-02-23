@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//VSRV1/A.Homes$$/wangq323/Desktop/ECE253/lab5
+vDisplayCounter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1698700831
+!i10b 1
+!s100 b6GDHTD>YNHV6SZfJ]e0n1
+IS=f:^a2acgOjPQnHzE3^M3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 part2_sv_unit
+S1
+R0
+Z5 w1698700732
+Z6 8part2.sv
+Z7 Fpart2.sv
+L0 30
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1698700829.000000
+Z10 !s107 part2.sv|
+Z11 !s90 -reportprogress|300|part2.sv|
+!i113 1
+Z12 tCvgOpt 0
+n@display@counter
+vpart2
+R1
+R2
+!i10b 1
+!s100 l``^>Sa5N5D0Tg82LWo6o1
+IBjzd7_JLL:0<[S9BX3hIZ1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 47
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vRateDivider
+R1
+R2
+!i10b 1
+!s100 nS=XAb3:RMgN;DT50Q^hZ0
+I[Hl6L4k_AZND<nN=cW3^@1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+n@rate@divider
